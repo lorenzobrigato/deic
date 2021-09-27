@@ -1,4 +1,4 @@
-# Data-Efficient Deep Learning Benchmark (DEIC)
+# Data-Efficient Image Classification Benchmark (DEIC)
 
 This repository contains descriptions, download instructions, and canonical train/validation/test splits for the six datasets used as a benchmark for data-efficient image classification in the following paper:
 
